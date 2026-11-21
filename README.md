@@ -1,7 +1,7 @@
 
 👋 Hey, I'm Xuhaan
 
-Software Developer in Progress | Python • JavaScript • TypeScript
+Software Developer | Python • JavaScript • TypeScript
 
 I enjoy building software, experimenting with technology, and turning ideas into practical tools.
 
@@ -17,6 +17,12 @@ Currently focused on strengthening my software engineering fundamentals, develop
 - 📱 Interested in Android, custom ROMs, firmware tools & device utilities
 - 📚 Learning Data Structures & Algorithms using Python
 - 🎯 Goal: Become a capable Software Engineer and build useful, reliable software
+- 📱 Android & Device Development
+
+- 🔧 Exploring custom recovery and custom ROM development for the Lenovo Tab M11 (TB330FU).
+- 🛠️ Working towards TWRP recovery and custom ROM bring-up.
+- 📚 Exploring Android device trees, kernel architecture, firmware and build systems.
+
 
 ---
 
